@@ -1,17 +1,17 @@
 
-   #Component List
+   # Component List
    
-1	Arduino Uno R3
+1 ---- Arduino Uno R3
 
-1	Red LED
+1 ---- Red LED
 
-1	220 ohm Resistor
+1 ---- 220 ohm Resistor
 
-1	Pushbutton
+1 ---- Pushbutton
 
-1	10 kohm Resistor
+1 ---- 10 kohm Resistor
 
-  #Connecting guide  
+  # Connecting guide  
    
           LED
  Anode   -------- GRD
