@@ -1,6 +1,7 @@
 
    #Component List
    
+   
 1	Arduino Uno R3
 
 1	Red LED
@@ -11,17 +12,21 @@
 
 1	10 kohm Resistor
 
+
   #Connecting guide  
    
           LED
-Anode   -------- GRD
+ Anode   -------- GRD
 
 Cathode -------- pin 10
-                                                          
+                       
+                       
        Pushbutton
       
   Terminal ------- 5V  
+  
   Terminal ------- GRD
+  
   Terminal ------- pin 6
   
 
