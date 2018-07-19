@@ -13,7 +13,7 @@
 Anode   -------- GRD
 Cathode -------- pin 10
                                                           
-      Pushbutton
+       Pushbutton
       
   Terminal ------- 5V  
   Terminal ------- GRD
